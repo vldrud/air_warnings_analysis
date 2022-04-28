@@ -1,0 +1,4 @@
+[Telegram]
+api_id = your_id
+api_hash = your_hash
+username = your_name

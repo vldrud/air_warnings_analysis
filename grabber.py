@@ -20,7 +20,7 @@ from telethon.tl.functions.messages import GetHistoryRequest
 
 # Считываем учетные данные
 config = configparser.ConfigParser()
-config.read("config.ini")
+config.read("settings/config.ini")
 
 # Присваиваем значения внутренним переменным
 api_id   = config['Telegram']['api_id']

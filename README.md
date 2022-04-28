@@ -29,3 +29,5 @@ Parsing is executed by parser.py. That program works on pandas in major and has 
 ## Analysis
 Analysis is executed by Jupyter Notebook and stored in reports directory
 #### The last date of updating is 28.04.2022
+
+https://github.com/vldrud/air_warnings_analysis/blob/b729b43f03d95ed0e5be48fe92cb0118b8b83565/reports/warning_report_Kyiv_region_March-28April22.ipynb

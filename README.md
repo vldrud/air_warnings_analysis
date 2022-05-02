@@ -30,6 +30,9 @@ Parsing is executed by parser.py. That program works on pandas in major and has 
 
 
 ## Analysis
-Analysis is executed by Jupyter Notebook and stored in reports directory
+Analysis is executed by Jupyter Notebook and stored in reports directory. 
+Example of analysis:
+![image](https://user-images.githubusercontent.com/71409002/166325679-646f7a2a-c090-4c7b-8995-458cbb5480f6.png)
+
 #### The last date of updating is 29.04.2022
 

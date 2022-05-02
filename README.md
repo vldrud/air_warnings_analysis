@@ -2,7 +2,7 @@
 That repository provides my project in analysis of air warnings on teritory of Ukraine during the Invasion Russia to Ukraine.
 
 The last report:
-https://github.com/vldrud/air_warnings_analysis/blob/b729b43f03d95ed0e5be48fe92cb0118b8b83565/reports/warning_report_Kyiv_region_March-28April22.ipynb
+https://github.com/vldrud/air_warnings_analysis/blob/main/reports/warning_report_Kyiv_region_March-29April22.ipynb
 
 # The project processes.
 My project has 3 stages: grabbing, parsing and analysis.
@@ -31,5 +31,5 @@ Parsing is executed by parser.py. That program works on pandas in major and has 
 
 ## Analysis
 Analysis is executed by Jupyter Notebook and stored in reports directory
-#### The last date of updating is 28.04.2022
+#### The last date of updating is 29.04.2022
 
